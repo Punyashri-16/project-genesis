@@ -15,18 +15,23 @@ The goal of this project is to apply first-semester web development knowledge to
 Features
 
 Task and assignment display
+
 Structured layout for schedules
+
 Clean and organized interface
+
 Easy navigation within the page
 
 How to Run
 
-Download or clone the repository
-Open the HTML file in any web browser
+Click on the website link above or under Deployments
 
 Future Improvements
 
 Add CSS styling enhancements
+
 Integrate JavaScript for interactivity
+
 Convert into a fully functional web application
+
 Add database connectivity
