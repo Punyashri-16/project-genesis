@@ -1,4 +1,7 @@
 # project-genesis
+Live Website:
+https://punyashri-16.github.io/project-genesis/
+
 Student Life Management System
 
 Overview
